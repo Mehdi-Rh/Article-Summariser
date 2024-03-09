@@ -88,7 +88,6 @@ const Demo = () => {
         </div>
         {/* Display Result */}
 
-        {console.log({ article })}
         <div className="my-10 max-w-full flex justify-center items-center">
           {isFetching ? (
             <img
