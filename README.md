@@ -1,3 +1,6 @@
+# Tutorial link
+https://www.youtube.com/watch?v=A6g8xc0MoiY&t=4686s&ab_channel=JavaScriptMastery
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
